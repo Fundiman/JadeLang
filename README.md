@@ -11,7 +11,7 @@ Ruby's elegance + Go's simplicity + Kotlin's type safety. Curly braces. Semicolo
 jscc/       — the Jade compiler (.jsc → .joc)
 jvk/        — the Jade Virtual Kernel (runs .joc files)
 jpkg/       — the Jade package manager
-jade_stdlib/ - the stdlib
+jade_stdlib/ — the stdlib
 ```
 
 ## quick start
