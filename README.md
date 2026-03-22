@@ -91,6 +91,9 @@ python3 jpkg/jpkg.py publish
 
 publishing opens a PR to `Fundiman/jade-pkgs` automatically.
 
+## fun fact
+JadeLang was written IN ONLY 3 hours and 12 minutes! I started at 10:02 AM and finished at 1:14 PM.
+
 ## license
 
 LGPL v3.0 — use Jade freely in your own projects.  
